@@ -1,0 +1,12 @@
+#exclude object files
+*.o
+
+#exclude libraries
+*.so*
+*.a*
+
+#Exclude Temp files
+*~
+\#*#
+
+
